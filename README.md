@@ -140,4 +140,4 @@ Make sure both extra screens are registered inside `<application>` in `AndroidMa
 
 ## Author
 
-OuroDev
+OuroB0roz
